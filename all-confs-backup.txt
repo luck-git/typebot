@@ -6,11 +6,11 @@ NEXTAUTH_URL=http://140.82.42.177:3001
 NEXT_PUBLIC_VIEWER_URL=http://140.82.42.177:3002
 
 # Email settings
-SMTP_USERNAME=abhishek.goswami@aitherapy.help
+SMTP_USERNAME=
 SMTP_PASSWORD=mr.robot@24A
 SMTP_HOST=smtp.zoho.in
 SMTP_PORT=587
-NEXT_PUBLIC_SMTP_FROM='Ai Therapy Notification' abhishek.goswami@aitherapy.help
+NEXT_PUBLIC_SMTP_FROM='Ai Therapy Notification' 
 SMTP_SECURE=false
 DISABLE_SIGNUP=true
 ADMIN_EMAIL=abhishek.goswami@aitherapy.help
